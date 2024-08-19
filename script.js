@@ -1,0 +1,16 @@
+import a from './class.js';
+import b from './staticMethod.js';
+import c from './Rest.js';
+import d from './destructuring.js';
+console.log('>>> Class(Lab1-2) <<<');
+a();
+console.log('----------------------');
+console.log('>>> Static Method(Lab1,1-2) <<<');
+b();
+console.log('----------------------');
+console.log('>>> Rest/Spread(Lab1-10) <<<');
+c();
+console.log('----------------------');
+console.log('>>> Destructuring(Lab11-28) <<<');
+d();
+console.log('----------END---------');
